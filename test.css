@@ -1,4 +1,7 @@
-.p{
+p{
    font-size:24px;
    color: red; 
+}
+body{
+    background-color: rgb(210, 223, 235);
 }
